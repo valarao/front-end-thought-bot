@@ -1,0 +1,30 @@
+{
+  "name": "front-end-thought-bot",
+  "version": "1.0.0",
+  "description": "Slackbot to post dev.to's daily featured article of the day to keep updated with best front-end practices",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "dotenv": "^8.1.0",
+    "slackbots": "^1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valarao/front-end-thought-bot.git"
+  },
+  "keywords": [
+    "slack",
+    "news",
+    "frontend"
+  ],
+  "author": "Miguel Valarao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/valarao/front-end-thought-bot/issues"
+  },
+  "homepage": "https://github.com/valarao/front-end-thought-bot#readme"
+}
